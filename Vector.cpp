@@ -1,6 +1,7 @@
 //Same as array but it doubles the size when extra element is added 
 //We can even shrink the size.
-
+//Contagious memory location
+//all functions below are O(1)
 #include <vector>
 #include <iostream>
 using namespace std;

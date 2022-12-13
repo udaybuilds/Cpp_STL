@@ -1,3 +1,5 @@
+//Contagious memory location
+//all functions below are O(1)
 #include <array>
 #include <iostream>
 using namespace std;
